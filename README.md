@@ -19,7 +19,7 @@
 
 - How to reach me **chaitalijadhav113@gmail.com**
 
-- ⚡ Fun fact **⏳Explore Coding With different Challenges👩‍💻**
+- **⏳Explore Coding With different Challenges👩‍💻**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
