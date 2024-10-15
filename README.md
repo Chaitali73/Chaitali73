@@ -47,4 +47,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitali73&" alt="chaitali73" /></p>
 
-![snake gif](https://github.com/Chaitali73/Chaitali73/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Chaitali73/Chaitali73/blob/output/github-contribution-grid-snake.svg)
