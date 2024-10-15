@@ -42,7 +42,7 @@
   <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="chaitali jadhav" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitali73&show_icons=true&locale=en&layout=compact" alt="chaitali73" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitali73&show_icons=true&locale=en" alt="chaitali73" /></p>
 
