@@ -22,6 +22,7 @@
 - **⏳Explore Coding With different Challenges👩‍💻**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -42,8 +43,8 @@
   <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="chaitali jadhav" height="30" width="40" /></a>
 </p>
 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitali73&show_icons=true&locale=en" alt="chaitali73" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitali73&" alt="chaitali73" /></p>
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
